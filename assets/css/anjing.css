@@ -255,7 +255,6 @@ body {
 @media screen and (max-width:425px) {
     .img-box{
     width:100%;
-    height: 220px;
     }
     .collection-card{
     width: 58%;
@@ -266,7 +265,6 @@ body {
 @media screen and (max-width:320px){
     .img-box{
     width: 100%;
-    height: 200px;
     }
     .collection-card{
     width: 58%;
