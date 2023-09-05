@@ -21,7 +21,7 @@ body {
 
 /* NAVBAR */
 .navbar-list {
-    background: red;
+    background: #ff0000;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -37,15 +37,17 @@ body {
 .navbar-item {
     margin: 0 20px;
     list-style-type: none;
+    color: white;
 }
 
 .navbar-link {
     text-decoration: none;
     font-weight: bold;
+    color: white;
 }
 
 .navbar-link:hover {
-    color: rgb(0, 64, 255);
+    color: rgb(253, 253, 253);
 }
 
 .logo {
