@@ -176,6 +176,9 @@ body {
     .character-img{
         width: 400px;
     }
+    .toogle{
+        display: block;
+    }
 }
 
 /* collection */
